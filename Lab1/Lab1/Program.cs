@@ -1,5 +1,5 @@
 ﻿
-namespace Lab1
+namespace Lab1 
 {
 
     internal class Program
