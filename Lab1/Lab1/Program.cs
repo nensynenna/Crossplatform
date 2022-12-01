@@ -1,5 +1,5 @@
 ﻿
-namespace Lab1 
+namespace Lab1
 {
 
     internal class Program
@@ -25,6 +25,8 @@ namespace Lab1
         {
             try
             {
+                File.WriteAllText("INPUT.txt", Convert.ToString("4"));
+
                 string text = File.ReadAllText(Path.GetFullPath("INPUT.txt"));
                 int n = Int32.Parse(text);
                 Console.WriteLine("Number of products = {0}", text);
@@ -36,13 +38,13 @@ namespace Lab1
                         sum += C(n, i); //sum of combinations
                     }
                     Console.WriteLine("Number of salads = {0}", sum);
-                    File.WriteAllText("OUTPUT.txt",Convert.ToString(sum));
+                    File.WriteAllText("OUTPUT.txt", Convert.ToString(sum));
                 }
                 else
                 {
                     Console.WriteLine("Number of products 'n' must be smaller than 32.");
                 }
-                
+
             }
             catch
             {

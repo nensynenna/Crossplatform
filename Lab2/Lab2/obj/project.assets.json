@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brill\\Desktop\\University\\4 курс\\Кроспллатформи\\Crossplatform\\Lab2\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "C:\\Users\\brill\\Desktop\\University\\4 курс\\Кроспллатформи\\Repos\\Crossplatform\\Lab2\\Lab2\\Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "C:\\Users\\brill\\Desktop\\University\\4 курс\\Кроспллатформи\\Crossplatform\\Lab2\\Lab2\\Lab2.csproj",
+      "projectPath": "C:\\Users\\brill\\Desktop\\University\\4 курс\\Кроспллатформи\\Repos\\Crossplatform\\Lab2\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\brill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brill\\Desktop\\University\\4 курс\\Кроспллатформи\\Crossplatform\\Lab2\\Lab2\\obj\\",
+      "outputPath": "C:\\Users\\brill\\Desktop\\University\\4 курс\\Кроспллатформи\\Repos\\Crossplatform\\Lab2\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brill\\AppData\\Roaming\\NuGet\\NuGet.Config",

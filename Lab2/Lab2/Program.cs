@@ -30,6 +30,8 @@ namespace Lab2
         {
             try
             {
+                File.WriteAllText("INPUT.txt", Convert.ToString("3"));
+
                 string number = File.ReadAllText(Path.GetFullPath("INPUT.txt"));
                 int n = Int32.Parse(number);
                 Console.WriteLine("Number is {0}", number);
