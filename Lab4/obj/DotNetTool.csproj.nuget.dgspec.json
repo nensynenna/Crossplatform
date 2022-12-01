@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/valerii.marchuk/projects/univ/Nastia/L4_N/DotNetTool.csproj": {}
+  },
+  "projects": {
+    "/Users/valerii.marchuk/projects/univ/Nastia/L4_N/DotNetTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/valerii.marchuk/projects/univ/Nastia/L4_N/DotNetTool.csproj",
+        "projectName": "crossplatform-sample",
+        "projectPath": "/Users/valerii.marchuk/projects/univ/Nastia/L4_N/DotNetTool.csproj",
+        "packagesPath": "/Users/valerii.marchuk/.nuget/packages/",
+        "outputPath": "/Users/valerii.marchuk/projects/univ/Nastia/L4_N/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/valerii.marchuk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "http://localhost:8080/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "McMaster.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

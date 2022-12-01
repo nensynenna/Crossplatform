@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVuAOqaKxsScAa99saXpXeIJseFA4bIXnZtb+7WgrrXJT5WsB42JLL08lK6YeZUUBEm8yCgWESnMUzzuPJXO/A==",
+  "success": true,
+  "projectFilePath": "/Users/valerii.marchuk/projects/univ/Nastia/L4_N/DotNetTool.csproj",
+  "expectedPackageFiles": [
+    "/Users/valerii.marchuk/.nuget/packages/mcmaster.extensions.commandlineutils/4.0.1/mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
+    "/Users/valerii.marchuk/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://localhost:8080/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

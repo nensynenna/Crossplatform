@@ -1,0 +1,6 @@
+/Users/valerii.marchuk/projects/univ/crossplatform-gen/DotNetTool/bin/Release/net6.0/publish/DotNetTool
+/Users/valerii.marchuk/projects/univ/crossplatform-gen/DotNetTool/bin/Release/net6.0/publish/DotNetTool.dll
+/Users/valerii.marchuk/projects/univ/crossplatform-gen/DotNetTool/bin/Release/net6.0/publish/DotNetTool.deps.json
+/Users/valerii.marchuk/projects/univ/crossplatform-gen/DotNetTool/bin/Release/net6.0/publish/DotNetTool.runtimeconfig.json
+/Users/valerii.marchuk/projects/univ/crossplatform-gen/DotNetTool/bin/Release/net6.0/publish/DotNetTool.pdb
+/Users/valerii.marchuk/projects/univ/crossplatform-gen/DotNetTool/bin/Release/net6.0/publish/McMaster.Extensions.CommandLineUtils.dll

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E6CE214E-32FB-459B-8E6B-1295FA357C46}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DotNetTool PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labs.cs">
+    <Files>
+      <File FileName="Program.cs" Line="78" Column="27" IsPinned="True" />
+      <File FileName="Laboratories/Lab2.cs" Line="67" Column="1" />
+      <File FileName="../../../../../../var/folders/r_/w8sc1nf136sct51f81rstkww0000gp/T/ru.keepcoder.Telegram/Program.cs" />
+      <File FileName="Laboratories/Lab3.cs" Line="5" Column="5" />
+      <File FileName="LinuxVM/Vagrantfile" />
+      <File FileName="DotNetTool.csproj" Line="39" Column="11" />
+      <File FileName="Laboratories/Lab1.cs" Line="3" Column="29" />
+      <File FileName="Program (copy).cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetTool" expanded="True">
+            <Node name="DotNetTool" expanded="True">
+              <Node name="Laboratories" expanded="True" />
+              <Node name="LinuxVM" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
