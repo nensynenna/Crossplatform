@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2AE3BCFF-614C-4181-A317-DB76273DD67B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.WebAppProject PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinuxVM/Vagrantfile">
+    <Files>
+      <File FileName="../L4_N/UbuntuVM/Vagrantfile" />
+      <File FileName="WebAppProject.csproj" />
+      <File FileName="LinuxVM/Vagrantfile" Line="18" Column="48" />
+      <File FileName="../L4_N/DotNetTool.csproj" />
+      <File FileName="LinuxVM/startup.sh" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp" expanded="True">
+            <Node name="WebAppProject" expanded="True">
+              <Node name="LinuxVM" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>inputArray</Value>
+          <Value>n</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
